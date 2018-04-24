@@ -13,7 +13,7 @@ Serial# 1234998871109
 
 **/
 
-var machine = "mongodb://rohanath:Rona@2011@ds239648.mlab.com:39648/gumball";
+var machine = "http://api.nguyenresearch.com:8080/gumball";
 var endpoint = "http://api.nguyenresearch.com:8080/order";
 
 
