@@ -16,6 +16,7 @@ Serial# 1234998871109
 var machine = "http://api.nguyenresearch.com:8080/gumball";
 var endpoint = "http://api.nguyenresearch.com:8080/order";
 
+
 var fs = require('fs');
 var express = require('express');
 var Client = require('node-rest-client').Client;
